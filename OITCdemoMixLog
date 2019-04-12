@@ -1,1 +1,3 @@
-190412: 5.3.3.6.3 增加版本號、Engine Blower（透明度操作提示，blowerColor()使用Object+key）
+190412: 
+  5.3.3.6.3 增加版本號
+  Engine Blower（透明度操作提示，blowerColor()使用Object+key，baseframe with texture）
